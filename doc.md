@@ -13,6 +13,13 @@ pip freeze > requirements.txt
 jupyter notebook
 
 
+# TO CHECK
+Fairseq
+Fairseq speech extension
+Torchaudio 0.3.0  --> spectograms and MFCCs
+
+
+
 # coping files from vm
 scp -i /home/oscar/.ssh/aws_key ubuntu@18.191.58.37:/home/ubuntu/dataSet/pourquoi/0008.wav .
 
